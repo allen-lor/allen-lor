@@ -22,7 +22,7 @@ I’m an aspiring **Systems Administrator** and future **Cybersecurity professio
 - How to translate technical work into clear documentation  
 
 ### 🧪 Home Lab Projects
-- Partitioned macOS device into a **Windows 10 lab machine**  
+- [Partitioned macOS to run Windows 10](https://github.com/allen-lor/partitioned-macos-windows10) — What I did and what I learned.
 - VirtualBox/VMware experiments with server environments  
 - Network simulations and packet analysis  
 - More projects coming soon as I build out my portfolio
