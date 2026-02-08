@@ -21,11 +21,15 @@ I’m an aspiring **Systems Administrator** and future **Cybersecurity professio
 - Cybersecurity basics and secure infrastructure design  
 - How to translate technical work into clear documentation  
 
-### 🧪 Home Lab Projects
-- [Partitioned macOS to run Windows 10](https://github.com/allen-lor/partitioned-macos-windows10) — What I did and what I learned.
-- VirtualBox/VMware experiments with server environments  
-- Network simulations and packet analysis  
-- More projects coming soon as I build out my portfolio
+### 🛡️ Home Projects
+
+#### 🕵️ [Network Traffic Analysis & Endpoint Provisioning Lab](https://github.com/YOUR_USERNAME/NAME_OF_YOUR_NEW_REPO)
+**Objective:** Simulated a Man-in-the-Middle (MITM) attack to analyze unencrypted network traffic.
+* **Infrastructure:** Provisioned a Windows 10 Enterprise endpoint from ISO in VirtualBox.
+* **Networking:** Engineered a bridged network adapter to bypass NAT isolation.
+* **Analysis:** Intercepted cleartext credentials using Wireshark packet capture (`http.request.method == POST`).
+* **Tools:** Wireshark, VirtualBox, TCP/IP, HTTP.
+
 
 ### 📫 Connect With Me
 - GitHub: *You’re already here*  
