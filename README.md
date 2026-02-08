@@ -23,7 +23,7 @@ I’m an aspiring **Network Operations Administrator** and future **Cybersecurit
 
 ### 🛡️ Home Projects
 
-#### 🕵️ [Network traffic analysis & endpoint Provisioning Lab](https://github.com/allen-lor/Network-Traffic-Analysis-Endpoint-Provisioning-Lab)
+#### 🕵️ [Network Traffic Analysis & Endpoint Provisioning Lab](https://github.com/allen-lor/Network-Traffic-Analysis-Endpoint-Provisioning-Lab)
 **Objective:** Simulated a Man-in-the-Middle (MITM) attack to analyze unencrypted network traffic.
 * **Infrastructure:** Provisioned a Windows 10 Enterprise endpoint from ISO in VirtualBox.
 * **Networking:** Engineered a bridged network adapter to bypass NAT isolation.
