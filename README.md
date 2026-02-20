@@ -12,7 +12,7 @@ I’m an aspiring **Network Operations Administrator** and future **Cybersecurit
 ### 🔧 What I’m Working On
 - Building a **Network Segmentation & Firewall Lab**  
 - Practicing **Networking Fundamentals** (CompTIA Network+ track)  
-- Strengthening my skills in **Network Automation**, **Switching & Routing**, and **Infrastructure Hardening**
+- Strengthening my skills in **Network Automation**, **Cloud Computing**, and **Infrastructure Hardening**
 - Documenting my learning journey through GitHub projects and write‑ups  
 
 ### 🌱 What I’m Learning
@@ -30,7 +30,7 @@ I’m an aspiring **Network Operations Administrator** and future **Cybersecurit
 * **Analysis:** Intercepted cleartext credentials using Wireshark packet capture (`http.request.method == POST`).
 * **Tools:** Wireshark, VirtualBox, TCP/IP, HTTP.
 
-#### 🌐 Enterprise-Lite Network Architecture & Segmentation Lab
+#### 🌐 [Enterprise-Lite Network Architecture & Segmentation Lab](https://github.com/allen-lor/Layer-3-Switched-Network-Automated-Addressing.git)
 **Objective:** Simulated a corporate network environment to deploy isolated broadcast domains and automate IP address provisioning.
 * **Infrastructure:** Provisioned a multi-departmental network topology using Cisco Packet Tracer.
 * **Networking:** Engineered 802.1Q trunking and inter-VLAN routing to establish logical separation.
