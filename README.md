@@ -30,6 +30,13 @@ I’m an aspiring **Network Operations Administrator** and future **Cybersecurit
 * **Analysis:** Intercepted cleartext credentials using Wireshark packet capture (`http.request.method == POST`).
 * **Tools:** Wireshark, VirtualBox, TCP/IP, HTTP.
 
+#### 🌐 Enterprise-Lite Network Architecture & Segmentation Lab
+**Objective:** Simulated a corporate network environment to deploy isolated broadcast domains and automate IP address provisioning.
+* **Infrastructure:** Provisioned a multi-departmental network topology using Cisco Packet Tracer.
+* **Networking:** Engineered 802.1Q trunking and inter-VLAN routing to establish logical separation.
+* **Implementation:** Automated dynamic IPv4 allocation via centralized DHCP pools and mitigated Layer 2 loops using STP ( `spanning-tree portfast` ).
+* **Tools:** Cisco IOS, Packet Tracer, VLAN, DHCP, STP.
+
 
 ### 📫 Connect With Me
 - GitHub: *You’re already here*  
